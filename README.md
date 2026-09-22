@@ -105,6 +105,8 @@ Some made only a few hundred trades, while others made tens of thousands.
 Because of this big gap, I used **median trade count** instead of just the average, so it would better represent what a typical trader actually does.
 
 ---
+<img width="240" height="364" alt="Screenshot 2026-09-22 171653" src="https://github.com/user-attachments/assets/b862ba36-b9e1-4617-b9be-a849a6d2ae1c" />
+
 
 ## Key Findings
 
@@ -116,6 +118,8 @@ Because of this big gap, I used **median trade count** instead of just the avera
 - Different trader groups performed differently depending on market conditions
 
 ---
+<img width="288" height="316" alt="Screenshot 2026-09-22 171725" src="https://github.com/user-attachments/assets/fb139f1d-cea3-4e9e-ae9c-dcccc89c02b0" />
+
 
 ## Business Insights
 
@@ -129,6 +133,7 @@ The analysis shows that success isn't just about trading more.
 - Different market conditions suit different trading styles
 
 ---
+<img width="548" height="71" alt="Screenshot 2026-09-22 171739" src="https://github.com/user-attachments/assets/3a5c0066-26b8-4ef6-bd81-9336d179858c" />
 
 ## Strategy Recommendations
 
@@ -151,3 +156,7 @@ The analysis shows that success isn't just about trading more.
 This project shows that market sentiment has a real impact on both trader behavior and performance.
 
 More importantly, it shows why it's worth digging deeper before accepting the first result you see. By questioning averages, checking for skew, comparing medians, and breaking traders into segments, I was able to get a more balanced and reliable picture of what was actually going on.
+
+
+
+                                             please open analysis.ipynb file to see full report
